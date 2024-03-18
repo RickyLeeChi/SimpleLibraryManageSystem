@@ -24,7 +24,7 @@ Download the project, then we can execute the following command to start the app
 java -jar target/*.jar
 ```
 
-##Scenario Sample (Add Books to Library, Checkout Book, Return Book, List Available Books)
+## Scenario Sample (Add Books to Library, Checkout Book, Return Book, List Available Books)
 
 ```shell
 Welcome to Library Management System.
